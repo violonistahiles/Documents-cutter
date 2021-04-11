@@ -1,0 +1,6 @@
+pysimplegui
+imageio
+onnxruntime
+opencv-python
+numpy
+Pillow
