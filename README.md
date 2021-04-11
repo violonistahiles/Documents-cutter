@@ -6,13 +6,13 @@ To try it by yourself read "manual.pdf"
 
 Examples of processing:
 
-![alt text](https://drive.google.com/uc?id=13JePtWDW7khDfJvTr_YAdfG2nfQG7nus)
+![alt text](https://github.com/violonistahiles/Documents-cutter/blob/main/docs/images_for_readme/1.png)
 
-![alt text](https://drive.google.com/uc?id=13JePtWDW7khDfJvTr_YAdfG2nfQG7nus)
+![alt text](https://github.com/violonistahiles/Documents-cutter/blob/main/docs/images_for_readme/2.png)
 
 Application GUI:
 
-![alt text](https://drive.google.com/uc?id=1yCcAkf7WiiScuRNLaE5OfiuWYX99vSuh)
+![alt text](https://github.com/violonistahiles/Documents-cutter/blob/main/docs/images_for_readme/gui.png)
 
 
 ```python
